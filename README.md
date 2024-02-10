@@ -6,7 +6,7 @@ Final Project files for Cybersecurity Bootcamp. Ran against VulnServer running o
 
 3_shellcode.py is the final buffer overflow exploit. After the buffer is the memory address of a command in the VulnServer DLL that will redirect execution back into the current stack frame. Then it includes a NOP sled for variability of the Stack Pointer. Finally it executes a payload that generates a reverse TCP shell. 
 
-For a detailed overview of this project, view the [Google Slides Presentation](https://docs.google.com/presentation/d/1-FVf3o4jOFlyRfadM31PTF1wuuZd_WjA8flF05g9hLs/edit?usp=sharing).
+For a detailed overview of this project, view the [Google Slides Presentation](https://docs.google.com/presentation/d/1-FVf3o4jOFlyRfadM31PTF1wuuZd_WjA8flF05g9hLs/edit?usp=sharing) and the [Video Walkthrough](https://www.youtube.com/watch?v=SckSA7ZVigk).
 
 These are for study only, do not use on a system that you don't own or have permission to do this to. 
 
