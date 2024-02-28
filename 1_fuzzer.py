@@ -1,5 +1,6 @@
 #!/usr/bin/python2
 #did the above because this script wasn't working in python3
+#fix for python3 later
 import sys, socket
 from time import sleep
 
