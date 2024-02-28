@@ -1,5 +1,6 @@
 #!/usr/bin/python2
 #did the above because this script wasn't working in python3
+#fix for python3 later
 import sys, socket
 
 #string from '/usr/share/metasploit-framework/tools/exploit/pattern_create.rb -l 5000'
